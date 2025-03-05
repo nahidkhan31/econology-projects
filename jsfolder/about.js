@@ -29,4 +29,9 @@ document.getElementById('home').addEventListener('click', function(event){
      window.location.href="index.html"
    })
 
+   document.getElementById('shakil').addEventListener('click', function(event){
+        event.preventDefault;
+        window.location.href="https://www.linkedin.com/in/shakil10945/";
+   })
+
 
